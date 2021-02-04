@@ -1,0 +1,12 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+
+# Project exclude paths
+/ComAssistant/build/
+/ComAssistant/build/intermediates/javac/debug/classes/
